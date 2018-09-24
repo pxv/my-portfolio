@@ -1,2 +1,2 @@
-# my-portfolio
-acloudguru - react tutorial
+# Pete's Portfolio
+acloudguru - react tutorial.
