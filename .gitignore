@@ -1,1 +1,8 @@
 .DS_Store
+
+# Built code
+dist
+
+# Dependency directories
+node_modules
+jspm_modules
